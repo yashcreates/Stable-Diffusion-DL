@@ -1,4 +1,4 @@
-# Stable-Diffusion-DL
+# Stable-Diffusion-PBL 
 
 Text to image generation from scratch
 
