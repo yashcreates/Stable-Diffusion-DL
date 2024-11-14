@@ -1,3 +1,3 @@
 # Stable-Diffusion-DL
 
-Generating image from text prompt from scratch
+Text to image generation from scratch
